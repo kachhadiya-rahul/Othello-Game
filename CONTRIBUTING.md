@@ -1,0 +1,1 @@
+Feel free to clone the master branch, It's the best way to get the feel of the project. Mail me on: rahul.kachhadiya99917@gmail.com to contribute to this repo, so that I can provide information that can affect your approach to the goal.
